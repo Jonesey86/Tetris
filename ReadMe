@@ -27,9 +27,9 @@ Language: Java Script, HTML,C#,CSS.
 
 How to run the game 
 
-1. Clone repository : https://github.com/Jonesey86/Pong-Game
+1. Clone repository : https://github.com/Jonesey86/Tetris
 
-2. Open Open the solution file (`Pong-Game.sln`) in Visual Studio Code.
+2. Open Open the solution file (`Tetris.sln`) in Visual Studio Code.
 
 3. Rebuild solution.
 
