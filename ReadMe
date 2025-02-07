@@ -1,1 +1,54 @@
 
+Video Game Pong Game
+
+*A simple Pong Game made in Visual Studio Code. 
+
+*This project shows basic game development principles, 
+
+*Including UI interaction, event handling, and game logic.
+
+
+
+Features
+
+*One-player gameplay
+
+*Dynamic game grid A 3x3 button-based grid for gameplay.
+
+*Start and Reset functionality Allows the game to start fresh and reset at any time.
+
+*Win detection Detects when a player wins or loses the game.
+
+
+Tech used
+
+Language: Java Script, HTML,
+
+
+
+How to run the game 
+
+1. Clone repository : https://github.com/Jonesey86/Pong-Game
+
+2. Open Open the solution file (`Pong-Game.sln`) in Visual Studio Code.
+
+3. Rebuild solution.
+
+4. Run the game.
+
+
+
+How to play :video_game:
+
+1. Start the Game
+- Click Start button.
+
+2.How to play the game
+Player has to use up and down key's to send the ball back to the AI Player.
+
+3. Win or Reset
+The game detects wins or loss and displays the result, Best of 5 type of game.
+
+*Click Reset to restart the game*.
+
+* Ive also added a Pong Game.png, So you can see what the game looks like.
