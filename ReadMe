@@ -10,13 +10,15 @@
 
 Features 📚
 
-*One-player gameplay
+* One-player gameplay
 
-*Dynamic game grid A 3x3 button-based grid for gameplay.
+* Dynamic game grid A 3x3 button-based grid for gameplay.
 
-*Start and Reset functionality Allows the game to start fresh and reset at any time.
+* Start and Reset functionality Allows the game to start fresh and reset at any time.
 
-*Win detection Detects when a player wins or loses the game.
+* Win detection Detects when a player wins or loses the game.
+
+* There is also a square in the top right showing next piece to fall.
 
 
 📚 Tech used 📚
